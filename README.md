@@ -90,11 +90,11 @@ Created visual representations of:
 
 ### Stock Price Trend
 
-![Stock Price Trend](images/stock_price_trend.png)
+images/stock_price_trend.png.png
 
 ### 30-Day Moving Average Analysis
 
-![Moving Average Analysis](images/moving_average_analysis.png)
+images/moving_average_analysis.png.png
 
 ---
 
